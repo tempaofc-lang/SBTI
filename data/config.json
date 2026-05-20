@@ -23,11 +23,11 @@
     "fallbackThreshold": 60
   },
   "display": {
-    "title": "SBTI 人格测试",
-    "subtitle": "MBTI已经过时，SBTI来了。",
-    "author": "B站UP主@蛆肉儿串儿 原创",
-    "funNote": "本测试仅供娱乐，别拿它当诊断、面试、相亲、分手、招魂、算命或人生判决书。",
-    "funNoteSpecial": "本测试仅供娱乐。隐藏人格和傻乐兜底都属于作者故意埋的损招，请勿把它当成医学、心理学、相学、命理学或灵异学依据。"
+    "title": "DLTI 人格测试",
+    "subtitle": "啥TI都没过时，不过DLTI还是来了。",
+    "author": "B站UP主@蛆肉儿串儿 原创，TEMPA_再创作",
+    "funNote": "本测试仅供娱乐，请不要拿它当诊断、面试、相亲、分手、招魂、算命或人生判决书。",
+    "funNoteSpecial": "本测试仅供娱乐，请勿把它当成医学、心理学、相学、命理学或灵异学依据。其中含一隐藏人格——说出来了真的还算隐藏吗？？——总之，玩得愉快"
   },
   "drinkGate": {
     "questionId": "drink_gate_q1",
