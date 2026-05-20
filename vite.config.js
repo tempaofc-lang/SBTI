@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/DLTI/',
+  base: '/SBTI/',
   build: {
     outDir: 'dist',
   },
